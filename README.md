@@ -1,10 +1,11 @@
-# gwenbot
+# gwenbot for discord
 
 Firt time i make that so don't be mad...
 
 ## requirements
 
 - python 3.9
+- probably a discord account
 
 # installation :
 
