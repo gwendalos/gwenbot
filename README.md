@@ -2,6 +2,10 @@
 
 Firt time i make that so don't be mad...
 
+## requirements
+
+- python 3.9
+
 # installation :
 
 - Extract the rar file in what you want
